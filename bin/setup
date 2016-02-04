@@ -2,4 +2,4 @@
 
 cd ${OPENSHIFT_DATA_DIR}
 curl https://dl.dropboxusercontent.com/u/64801620/prep.bz2 > prep.bz2
-tar -jxf ${OPENSHIFT_PLAY2_DIR}/prep.bz2
+tar -jxf prep.bz2
